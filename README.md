@@ -11,7 +11,6 @@
 - Easy Publishing and Sharing
 - Growing Market
 
-
 ### Tableau Products
 - Tableau Desktop
 - Tableau Public
@@ -19,3 +18,16 @@
 - Tableau Server
 - Tableau Reader
 - Tableau Prep
+### § steps in creating any Tableau report
+- connect to a database
+- choose dimensions and measures
+- Apply visualization technique
+
+- What are the dimensions and Measures?
+  - Measures are the columns in the dataset whose values are probabilistic performable
+  -  Dimensions are the columns in the dataset that contain non-probabilistic
+
+### Live and Extract Connection
+- Tableau provides two types of connections
+- Live Connection
+- Extract Connection
