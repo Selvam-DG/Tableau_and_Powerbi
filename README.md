@@ -30,4 +30,29 @@
 ### Live and Extract Connection
 - Tableau provides two types of connections
 - Live Connection
+  - available in Tableau Desktop only
 - Extract Connection
+  - Available in Tableau Desktop and Tableau Public
+
+### Tableau Data Types
+- Number( #)
+- String/Text (ABC)
+- Date
+- Geographic
+- Boolean (True/False)
+- Date & Time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
