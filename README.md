@@ -51,6 +51,7 @@
 ### Hierarchy
 - manual hierarchy
 - auto hierarchy
+  
 ### Grouping
 
 ### Auto Generated Field
@@ -64,11 +65,28 @@
 - Blue color indicates discrete values and Green color indicates Continous values
 - Discrete field gives separate colors and Continous field gives gradient colors
 - Filtering on the Discrete field gives exact value to filter whereas the continuous field gives the range to filter
+- Discrete field in maps gives colored dots
+- Continous field in maps gives filled maps (gradient color)
+
+### Parameter
+
+### Set
+
+### Title and Caption
+
+### Exporting the data
+- Excel
+- Copy
+
+### Managing Metadata
+- Hiding fields that are not useful for data representation
+- Rename data fields name
+- Creating Hierarchies and Auto Hierarchies
+- Creating Folders - for easier navigation through fields
+- Creating a calculated field
 
 
-
-
-
+### Joins
 
 
 
