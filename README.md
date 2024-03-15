@@ -41,7 +41,12 @@
 - Geographic
 - Boolean (True/False)
 - Date & Time
-
+#### Sort or filter 
+- 2 in data source page by sorting rows and sorting column
+- Quick sort
+- Toolbar sort
+- Pill Sort
+- Marks Sort
 
 
 
