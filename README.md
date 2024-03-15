@@ -48,8 +48,22 @@
 - Pill Sort
 - Marks Sort
 
+### Hierarchy
+- manual hierarchy
+- auto hierarchy
+### Grouping
 
+### Auto Generated Field
+- Measure Names
+- Measure Values
+- Latitude
+- Longitude
+- Orders
 
+### Discrete and Continous variable
+- Blue color indicates discrete values and Green color indicates Continous values
+- Discrete field gives separate colors and Continous field gives gradient colors
+- Filtering on the Discrete field gives exact value to filter whereas the continuous field gives the range to filter
 
 
 
